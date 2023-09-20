@@ -1,0 +1,47 @@
+
+
+.student-interface {
+  margin: 50px ;
+}
+
+.student-interface h1 {
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: white;
+}
+
+.student-interface p {
+  font-size: 16px;
+}
+
+.student-interface input[type="text"] {
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 400px;
+  color: black;
+}
+
+.student-interface button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  max-width: 300px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.student-interface button:hover {
+  background-color: #0056b3;
+}
+
+.confirmation-message {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: green;
+}

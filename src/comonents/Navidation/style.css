@@ -1,0 +1,16 @@
+.navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100px;
+}
+
+.navigation a{
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.underline {
+  text-decoration: underline;
+}
